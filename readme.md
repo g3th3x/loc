@@ -1,3 +1,5 @@
-# Git test
+# Git test page
 
-some text
+Это простая тестовая страница.
+Рисунки сделаны в редакторе Inkscape.
+Wave-эффект взят [отсюда] (https://www.youtube.com/shorts/P38vynaLRF0)
